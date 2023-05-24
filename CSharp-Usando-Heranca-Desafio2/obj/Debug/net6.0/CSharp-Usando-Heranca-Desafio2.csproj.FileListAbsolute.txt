@@ -1,0 +1,15 @@
+C:\Users\bruna.silva\source\repos\CSharp-Usando-Heranca-Desafios\CSharp-Usando-Heranca-Desafio2\bin\Debug\net6.0\CSharp-Usando-Heranca-Desafio2.exe
+C:\Users\bruna.silva\source\repos\CSharp-Usando-Heranca-Desafios\CSharp-Usando-Heranca-Desafio2\bin\Debug\net6.0\CSharp-Usando-Heranca-Desafio2.deps.json
+C:\Users\bruna.silva\source\repos\CSharp-Usando-Heranca-Desafios\CSharp-Usando-Heranca-Desafio2\bin\Debug\net6.0\CSharp-Usando-Heranca-Desafio2.runtimeconfig.json
+C:\Users\bruna.silva\source\repos\CSharp-Usando-Heranca-Desafios\CSharp-Usando-Heranca-Desafio2\bin\Debug\net6.0\CSharp-Usando-Heranca-Desafio2.dll
+C:\Users\bruna.silva\source\repos\CSharp-Usando-Heranca-Desafios\CSharp-Usando-Heranca-Desafio2\bin\Debug\net6.0\CSharp-Usando-Heranca-Desafio2.pdb
+C:\Users\bruna.silva\source\repos\CSharp-Usando-Heranca-Desafios\CSharp-Usando-Heranca-Desafio2\obj\Debug\net6.0\CSharp-Usando-Heranca-Desafio2.csproj.AssemblyReference.cache
+C:\Users\bruna.silva\source\repos\CSharp-Usando-Heranca-Desafios\CSharp-Usando-Heranca-Desafio2\obj\Debug\net6.0\CSharp-Usando-Heranca-Desafio2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruna.silva\source\repos\CSharp-Usando-Heranca-Desafios\CSharp-Usando-Heranca-Desafio2\obj\Debug\net6.0\CSharp-Usando-Heranca-Desafio2.AssemblyInfoInputs.cache
+C:\Users\bruna.silva\source\repos\CSharp-Usando-Heranca-Desafios\CSharp-Usando-Heranca-Desafio2\obj\Debug\net6.0\CSharp-Usando-Heranca-Desafio2.AssemblyInfo.cs
+C:\Users\bruna.silva\source\repos\CSharp-Usando-Heranca-Desafios\CSharp-Usando-Heranca-Desafio2\obj\Debug\net6.0\CSharp-Usando-Heranca-Desafio2.csproj.CoreCompileInputs.cache
+C:\Users\bruna.silva\source\repos\CSharp-Usando-Heranca-Desafios\CSharp-Usando-Heranca-Desafio2\obj\Debug\net6.0\CSharp-Usando-Heranca-Desafio2.dll
+C:\Users\bruna.silva\source\repos\CSharp-Usando-Heranca-Desafios\CSharp-Usando-Heranca-Desafio2\obj\Debug\net6.0\refint\CSharp-Usando-Heranca-Desafio2.dll
+C:\Users\bruna.silva\source\repos\CSharp-Usando-Heranca-Desafios\CSharp-Usando-Heranca-Desafio2\obj\Debug\net6.0\CSharp-Usando-Heranca-Desafio2.pdb
+C:\Users\bruna.silva\source\repos\CSharp-Usando-Heranca-Desafios\CSharp-Usando-Heranca-Desafio2\obj\Debug\net6.0\CSharp-Usando-Heranca-Desafio2.genruntimeconfig.cache
+C:\Users\bruna.silva\source\repos\CSharp-Usando-Heranca-Desafios\CSharp-Usando-Heranca-Desafio2\obj\Debug\net6.0\ref\CSharp-Usando-Heranca-Desafio2.dll

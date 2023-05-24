@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharp-Usando-Heranca-Desafio1", "CSharp-Usando-Heranca-Desafios\CSharp-Usando-Heranca-Desafio1.csproj", "{4C2527DF-E5FF-4D2B-8152-38C072E1D0C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp-Usando-Heranca-Desafio2", "CSharp-Usando-Heranca-Desafio2\CSharp-Usando-Heranca-Desafio2.csproj", "{F2F974D5-4BFA-40BD-B321-93E751020480}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C2527DF-E5FF-4D2B-8152-38C072E1D0C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C2527DF-E5FF-4D2B-8152-38C072E1D0C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C2527DF-E5FF-4D2B-8152-38C072E1D0C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C2527DF-E5FF-4D2B-8152-38C072E1D0C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2F974D5-4BFA-40BD-B321-93E751020480}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2F974D5-4BFA-40BD-B321-93E751020480}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2F974D5-4BFA-40BD-B321-93E751020480}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2F974D5-4BFA-40BD-B321-93E751020480}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {005BDF51-4192-475E-87EF-573BB432F3AA}
+	EndGlobalSection
+EndGlobal
